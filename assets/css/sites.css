@@ -1,2 +1,7 @@
-
+@media only screen and (max-width: 767px) {
+ .css-card-body{
+	margin-top: 30px;
 }
+}
+
+
